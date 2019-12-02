@@ -1,6 +1,6 @@
 # JEE-Registration-Website
 A C++ built implementation of a website for JEE Registration and as an info portal. Developed as part of a project in Turbo C++.
-# Structure
+## Structure
 * Basic website sort of feel implemented in terminal.
 * Response to User interation with apt feedback
 * File handling using C++ modules.
