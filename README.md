@@ -4,7 +4,7 @@ A C++ built implementation of a website for JEE Registration and as an info port
 ## Structure
 
 * Basic website feel implemented in terminal.
-* Response to User interation with apt feedback
+* Response to User interaction with apt feedback
 * File handling using C++ modules.
 * Implementation of C++ concepts like- 
 1. Classes
